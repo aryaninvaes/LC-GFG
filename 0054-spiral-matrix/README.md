@@ -18,9 +18,17 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+
+
 <ul>
 	<li><code>m == matrix.length</code></li>
 	<li><code>n == matrix[i].length</code></li>
 	<li><code>1 &lt;= m, n &lt;= 10</code></li>
 	<li><code>-100 &lt;= matrix[i][j] &lt;= 100</code></li>
 </ul>
+
+
+<p align="center">
+  <img src="images/output1.jpg" width="45%">
+  <img src="images/output2.jpg" width="45%">
+</p>
