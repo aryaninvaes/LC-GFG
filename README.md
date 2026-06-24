@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
