@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
@@ -27,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 ## Math
 |  |
@@ -68,4 +70,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
