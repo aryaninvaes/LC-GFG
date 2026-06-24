@@ -37,24 +37,22 @@ public:
             else if (direction == 2) {
                 // right to left
                 // row is fixed(down)
-                if(top<=down){
 
                 for (int i = right; i >= left; i--) {
                     result.push_back(matrix[down][i]);
                 }
                 down--;
-                }
+                
             }
             else {
                 // down to up
                 // column is fixed
-                if(left<=right){
 
                 for (int i = down; i >= top; i--) {
                     result.push_back(matrix[i][left]);
                 }
                 left++;
-                }
+                
             }
 
             direction = (direction + 1) % 4;
