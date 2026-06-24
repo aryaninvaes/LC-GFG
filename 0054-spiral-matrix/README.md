@@ -29,6 +29,6 @@
 
 
 <p align="center">
-  <img src="images/output1.jpg" width="45%">
+  <img src="0054-spiral-matrix/WhatsApp Image 2026-06-24 at 13.49.47.jpeg" width="45%">
   <img src="images/output2.jpg" width="45%">
 </p>
