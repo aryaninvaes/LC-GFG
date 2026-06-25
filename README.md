@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
@@ -28,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 ## String
 |  |
