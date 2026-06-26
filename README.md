@@ -63,6 +63,7 @@
 | ------- |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -102,4 +103,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
