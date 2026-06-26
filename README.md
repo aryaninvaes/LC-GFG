@@ -57,12 +57,14 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+| [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -70,6 +72,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+| [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 ## Tree
 |  |
 | ------- |
