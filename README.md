@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0263-ugly-number) |
 ## Memoization
 |  |
 | ------- |
