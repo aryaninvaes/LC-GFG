@@ -37,6 +37,7 @@
 | [0045-jump-game-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
