@@ -52,6 +52,7 @@
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 ## Sorting
 |  |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
