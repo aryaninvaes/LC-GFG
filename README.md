@@ -28,6 +28,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
+| [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
+| [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [0045-jump-game-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0055-jump-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
+| [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 ## Bitmask
 |  |
 | ------- |
