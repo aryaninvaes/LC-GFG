@@ -17,6 +17,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## Hash Table
 |  |
 | ------- |
