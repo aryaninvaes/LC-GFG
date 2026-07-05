@@ -161,6 +161,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
