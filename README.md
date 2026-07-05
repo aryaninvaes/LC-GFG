@@ -80,6 +80,7 @@
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
 ## Memoization
 |  |
 | ------- |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
