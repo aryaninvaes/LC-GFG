@@ -21,6 +21,7 @@
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
+| [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
@@ -137,6 +138,7 @@
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
@@ -178,6 +180,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 ## Tree
