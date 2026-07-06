@@ -14,6 +14,7 @@
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 ## Depth-First Search
