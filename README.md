@@ -95,6 +95,7 @@
 | [0263-ugly-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |
