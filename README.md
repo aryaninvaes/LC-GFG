@@ -18,6 +18,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -80,6 +81,7 @@
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Math
@@ -162,6 +164,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 ## Sorting
 |  |
@@ -170,6 +173,7 @@
 | [0075-sort-colors](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -248,6 +252,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Geometry
@@ -263,8 +268,14 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
