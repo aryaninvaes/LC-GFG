@@ -85,6 +85,7 @@
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bitmask
 |  |
 | ------- |
