@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
@@ -305,4 +306,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
