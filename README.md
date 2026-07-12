@@ -97,6 +97,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
