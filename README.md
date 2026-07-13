@@ -107,6 +107,7 @@
 | [0258-add-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
 ## Enumeration
 |  |
