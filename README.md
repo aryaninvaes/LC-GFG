@@ -323,4 +323,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
