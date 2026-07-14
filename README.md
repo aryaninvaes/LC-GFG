@@ -90,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
+| [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
@@ -189,6 +190,7 @@
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
@@ -202,6 +204,7 @@
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
@@ -247,6 +250,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
