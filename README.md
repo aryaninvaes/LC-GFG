@@ -90,6 +90,7 @@
 | [0125-valid-palindrome](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -190,6 +191,7 @@
 | [0049-group-anagrams](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
@@ -317,6 +319,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 ## Trie
@@ -337,4 +340,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1291-sequential-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
