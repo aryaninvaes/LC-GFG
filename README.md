@@ -18,6 +18,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
@@ -194,6 +195,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
