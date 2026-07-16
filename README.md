@@ -26,6 +26,7 @@
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
+| [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
@@ -79,6 +80,7 @@
 | [0075-sort-colors](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -216,6 +218,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
