@@ -1,3 +1,22 @@
+// THIS IS GOOD BUT WILL GIVE TLE
+// class Solution {
+// public:
+//     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
+//         int n=nums.size();
+//         vector<long long> result;
+//         for(int i=0; i<n; i++){
+//             for(int j=i+1; j<n; j++){
+//                 result.push_back(gcd(nums[i], nums[j]));
+//             }
+//         }
+//         sort(result.begin(), result.end());
+//         vector<int> ans;
+//         for(auto itt: queries){
+//             ans.push_back(result[itt]);
+//         }
+//         return ans;
+//     }
+// };
 class Solution {
 public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
@@ -42,22 +61,3 @@ public:
         return ans;
     }
 };
-// THIS IS GOOD BUT WILL GIVE TLE
-// class Solution {
-// public:
-//     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
-//         int n=nums.size();
-//         vector<long long> result;
-//         for(int i=0; i<n; i++){
-//             for(int j=i+1; j<n; j++){
-//                 result.push_back(gcd(nums[i], nums[j]));
-//             }
-//         }
-//         sort(result.begin(), result.end());
-//         vector<int> ans;
-//         for(auto itt: queries){
-//             ans.push_back(result[itt]);
-//         }
-//         return ans;
-//     }
-// };
