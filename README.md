@@ -86,6 +86,7 @@
 | [0075-sort-colors](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -109,6 +110,7 @@
 | [0520-detect-capital](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1446-consecutive-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1446-consecutive-characters) |
@@ -204,6 +206,7 @@
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 ## Hash Table
 |  |
@@ -286,6 +289,7 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
