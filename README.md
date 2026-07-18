@@ -44,6 +44,7 @@
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
@@ -134,6 +135,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -362,6 +364,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
