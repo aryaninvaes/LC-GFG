@@ -144,6 +144,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2469-convert-the-temperature) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
