@@ -42,6 +42,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
