@@ -110,6 +110,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
