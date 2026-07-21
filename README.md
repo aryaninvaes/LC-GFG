@@ -56,6 +56,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0374-guess-number-higher-or-lower) |
@@ -128,6 +129,7 @@
 | [0009-palindrome-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0171-excel-sheet-column-number) |
