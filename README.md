@@ -52,6 +52,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
@@ -200,6 +203,7 @@
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
 | ------- |
