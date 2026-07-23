@@ -22,6 +22,7 @@
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -140,6 +141,7 @@
 | [0319-bulb-switcher](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
+| [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1037-valid-boomerang) |
@@ -238,6 +240,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
+| [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
@@ -332,6 +335,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
