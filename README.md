@@ -82,6 +82,7 @@
 | [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -125,6 +126,7 @@
 | [1446-consecutive-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1446-consecutive-characters) |
 | [1844-replace-all-digits-with-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
@@ -334,6 +336,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Prefix Sum
 |  |
 | ------- |
