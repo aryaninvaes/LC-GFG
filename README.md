@@ -83,6 +83,7 @@
 | [0131-palindrome-partitioning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -120,6 +121,7 @@
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0709-to-lower-case) |
