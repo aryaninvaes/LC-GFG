@@ -14,9 +14,8 @@ public:
         if(s[start] == s[end]){
             return dp[start][end] = 2 + solve(s, start+1, end-1);
         }else{
-            dp[start][end] = max(solve(s, start+1, end), solve(s, start, end-1));
+            return dp[start][end] = max(solve(s, start+1, end), solve(s, start, end-1));
         }
-        return dp[start][end];
     }
     int longestPalindromeSubseq(string s) {
         memset(dp,-1,sizeof(dp));
