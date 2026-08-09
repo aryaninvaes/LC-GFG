@@ -27,6 +27,7 @@
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
+| [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
@@ -84,6 +85,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
+| [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -426,4 +428,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
