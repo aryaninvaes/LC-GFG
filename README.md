@@ -35,6 +35,7 @@
 | [1037-valid-boomerang](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
@@ -200,6 +201,7 @@
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -228,6 +230,7 @@
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
