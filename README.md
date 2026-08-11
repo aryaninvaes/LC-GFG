@@ -55,6 +55,7 @@
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -261,6 +262,7 @@
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -280,6 +282,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
 |  |
