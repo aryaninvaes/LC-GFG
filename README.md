@@ -185,6 +185,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
@@ -198,6 +199,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
@@ -306,6 +308,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0814-binary-tree-pruning) |
@@ -315,6 +318,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0814-binary-tree-pruning) |
