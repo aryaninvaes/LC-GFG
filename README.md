@@ -27,6 +27,7 @@
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
+| [0815-bus-routes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0815-bus-routes) |
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
@@ -203,6 +204,7 @@
 | [0100-same-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -263,6 +265,7 @@
 | [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [0815-bus-routes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0815-bus-routes) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
