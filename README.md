@@ -58,6 +58,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -241,6 +242,7 @@
 | [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
