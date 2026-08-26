@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
 | [0815-bus-routes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0815-bus-routes) |
+| [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
@@ -105,6 +106,7 @@
 | [0125-valid-palindrome](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
@@ -237,6 +239,7 @@
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
@@ -249,6 +252,7 @@
 | [0054-spiral-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
+| [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0844-backspace-string-compare) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -340,6 +344,7 @@
 | [0389-find-the-difference](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
