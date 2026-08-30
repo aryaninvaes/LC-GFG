@@ -45,6 +45,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
@@ -249,6 +250,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1219-path-with-maximum-gold) |
 | [1329-sort-the-matrix-diagonally](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1329-sort-the-matrix-diagonally) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Simulation
