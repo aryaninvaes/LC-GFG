@@ -55,6 +55,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
@@ -191,6 +192,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0334-increasing-triplet-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
@@ -288,6 +290,7 @@
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -433,6 +436,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
 |  |
