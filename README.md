@@ -29,6 +29,7 @@
 | [0766-toeplitz-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0766-toeplitz-matrix) |
 | [0815-bus-routes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0815-bus-routes) |
 | [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [0905-sort-array-by-parity](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0905-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
@@ -76,6 +77,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0633-sum-of-square-numbers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
@@ -388,6 +390,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -397,6 +400,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -411,6 +415,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -463,6 +468,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## String Matching
 |  |
 | ------- |
@@ -480,4 +486,8 @@
 |  |
 | ------- |
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
