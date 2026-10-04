@@ -4,8 +4,9 @@ public:
         long long piles = 0;
         for(int i=0; i<candies.size(); i++){
             piles += candies[i] / target; 
+            if(piles >=k ) return true;
         }
-        return (piles >= k);
+        return false;
     }
 
     int maximumCandies(vector<int>& candies, long long k) {
