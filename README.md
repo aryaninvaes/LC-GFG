@@ -152,6 +152,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
@@ -295,6 +296,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
@@ -395,6 +397,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
