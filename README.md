@@ -55,6 +55,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -81,6 +82,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1539-kth-missing-positive-number) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2187-minimum-time-to-complete-trips](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -397,6 +399,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -407,6 +410,7 @@
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
