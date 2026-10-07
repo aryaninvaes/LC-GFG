@@ -103,6 +103,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0516-longest-palindromic-subsequence) |
+| [0834-sum-of-distances-in-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0834-sum-of-distances-in-tree) |
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -214,6 +215,7 @@
 | [0463-island-perimeter](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
@@ -238,6 +240,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1971-find-if-path-exists-in-graph) |
@@ -349,6 +352,7 @@
 | [0113-path-sum-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0834-sum-of-distances-in-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -501,4 +505,8 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
