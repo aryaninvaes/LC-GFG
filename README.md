@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0079-word-search) |
 | [0149-max-points-on-a-line](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0367-valid-perfect-square) |
