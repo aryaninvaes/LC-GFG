@@ -25,6 +25,7 @@
 | [0498-diagonal-traverse](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0598-range-addition-ii) |
 | [0645-set-mismatch](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
@@ -180,6 +181,7 @@
 | [0342-power-of-four](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0523-continuous-subarray-sum) |
+| [0598-range-addition-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1037-valid-boomerang) |
