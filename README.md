@@ -109,6 +109,7 @@
 | [0879-profitable-schemes](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0879-profitable-schemes) |
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
@@ -158,6 +159,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1446-consecutive-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1844-replace-all-digits-with-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1844-replace-all-digits-with-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -309,6 +311,7 @@
 | [1048-longest-string-chain](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1110-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1207-unique-number-of-occurrences) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -383,6 +386,7 @@
 | [0832-flipping-an-image](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0980-unique-paths-iii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2305-fair-distribution-of-cookies](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2305-fair-distribution-of-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -423,6 +427,7 @@
 | [0724-find-pivot-index](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2439-minimize-maximum-of-array](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/2439-minimize-maximum-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aryaninvaes/LEETCODE-GITHUB-JOURNEY/tree/master/3312-sorted-gcd-pair-queries) |
